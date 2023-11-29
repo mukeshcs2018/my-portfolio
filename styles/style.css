@@ -105,3 +105,29 @@ main hr{
 .rightSection-skills{
     width: 40%;
 }
+
+
+
+footer{
+    background-color: rgb(47 45 106);
+    height: 230px;
+}
+
+.footer{
+    display: flex;
+    padding: 23px 122px;
+    justify-content: space-evenly;
+    
+}
+
+footer .footer li{
+    list-style-type: none;
+}
+
+footer .footer div{
+    margin: 0 0 50px 500px;
+}
+
+footer .all-rights{
+    text-align: center;
+}
